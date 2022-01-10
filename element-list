@@ -1,0 +1,8 @@
+module:Client.Serveur.Java
+fr.android.projetJeux
+fr.android.projetJeux.fx
+fr.android.projetJeux.fx.elements
+fr.android.projetJeux.game
+fr.android.projetJeux.game.morpion
+fr.android.projetJeux.network
+fr.android.projetJeux.utils
